@@ -3,8 +3,8 @@ pipeline {
 
     stages {
         stage('Checkout') {
-            steps {
-                git branch: 'main', url: 'https://github.com/deepak-io-codes.git'
+            steage
+                git branch: 'main', url: 'https://github.com/nandan-35-io-codes.git'
             }
         }
         
